@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.env.local
+
+# Runtime data
+data/*.db
+data/chroma_db/
+data/db_version.txt
+data/backups/
+logs/
+
+# Build outputs
+bundle/
+dist/
+*.exe
+*.iso
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test & temp
+.pytest_cache/
+htmlcov/
+.coverage
+*.egg-info/

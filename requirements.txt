@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+chromadb
+streamlit
+httpx
+python-dotenv
+requests
+tiktoken
+onnxruntime
+email-validator
+pyinstaller
