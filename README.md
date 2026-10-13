@@ -9,7 +9,7 @@
 | Web 框架 | FastAPI + uvicorn | RESTful API 服务，端口 8000 |
 | 向量数据库 | ChromaDB | 知识点向量化存储与检索 |
 | 嵌入模型 | all-MiniLM-L6-v2 (ONNX) | 本地离线运行 |
-| AI 大模型 | Kimi (moonshot-v1) | 智能问答，支持 RAG 增强 |
+| AI 大模型 | Kimi (moonshot-k3) | 智能问答，支持 RAG 增强 |
 | 数据库 | SQLite | 题库、用户答题记录 |
 | 依赖管理 | Python Embeddable | 内嵌 Python 3.12 + 227 个包 |
 
